@@ -1,0 +1,12 @@
+{
+    "title": "title in basket use",
+    "ContinueProcess": "Continue Process and test",
+    "ProductNumber": "Product Number",
+    "Basket" : "Basket",
+    "Location": "Location",
+    "Payment" : "Payment",
+    "TotalAmount" : "Total Amount",
+    "DiscountAmount" : "Discount Amount",
+    "PayingAmount" : "Paying Amount",
+    "currency" : "Toman"
+}

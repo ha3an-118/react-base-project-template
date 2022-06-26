@@ -1,0 +1,9 @@
+.active-state
+{
+    border-width: 1rem !important;
+}
+.img-warper{
+    width: 200px !important;
+    max-width: 200px !important;
+    height: auto;
+}

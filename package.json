@@ -1,0 +1,22 @@
+{
+  "name": "ha3an-base-project-version",
+  "version": "1.0.0", 
+  "description": "The official Redux+TS+ReactRouter template for Create React App",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ha3an-118/react-base-project-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/ha3an-118/react-base-project-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+
+}
