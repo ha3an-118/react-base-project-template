@@ -1,0 +1,1 @@
+# It's simple test for npm package and create react app template
